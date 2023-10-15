@@ -1,0 +1,10 @@
+env/
+logs/
+plugins/
+postgres-db-volume/
+__pycache__/
+stage/
+tests/
+files/
+
+.DS_Store
